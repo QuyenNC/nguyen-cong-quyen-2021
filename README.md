@@ -1,7 +1,7 @@
 # nguyen-cong-quyen-2021 Interview Back End
 ### Live task interview : https://ncq-interview.netlify.app
 
-### Link client : https://github.com/QuyenNC/cllient-interview.git
+### Link Front-end : https://github.com/QuyenNC/cllient-interview.git
 
 ---
 
