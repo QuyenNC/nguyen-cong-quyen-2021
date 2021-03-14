@@ -1,4 +1,4 @@
-# nguyen-cong-quyen-2021 Interview Back End
+# nguyen-cong-quyen-2021 Interview Full Stack
 ### Live task interview : https://ncq-interview.netlify.app
 
 ### Link Front-end : https://github.com/QuyenNC/cllient-interview.git
