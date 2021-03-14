@@ -1,5 +1,5 @@
 # nguyen-cong-quyen-2021 Interview Back End
-### The App is live at [Netlify.com](https://tuong-instagram.netlify.app)
+### Live task interview : (ncq-interview.netlify.app)
 
 ### Link client : https://github.com/QuyenNC/cllient-interview.git
 
