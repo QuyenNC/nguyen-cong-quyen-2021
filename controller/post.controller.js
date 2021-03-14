@@ -1,7 +1,7 @@
 
 
 //using mongoose
-const Posts = require("../model/Post.model.js");
+const Posts = require("../model/post.model.js");
 
 //using bcrypt
 module.exports = {
